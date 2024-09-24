@@ -1,2 +1,2 @@
-# AndroidCB_HoTenSV
+# AndroidCB_Nguyen_Quang_Minh
 Thực hành
